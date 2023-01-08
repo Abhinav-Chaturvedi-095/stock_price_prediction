@@ -37,7 +37,4 @@ for lstm we need 3d matrix [samples, time steps, features]
 5.predict the future 30 days
 
 reference: krish naik
-other keywords explanation
-verbose=>
-epoch=>
-batch_size=>
+
