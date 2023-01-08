@@ -15,8 +15,11 @@ test=>160,190,154
 timesteps =3(how many previous days to consider for next)
 
 	x_train		y_train
+
 f1	f2	f3	o/p
+
 120	130	125	140
+
 130	125	140	134...so on
 
 
