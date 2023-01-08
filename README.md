@@ -6,7 +6,7 @@ explanation
 
 2. preprcess the data -> test train split
 
-for time series split will be continuous because it next value depends on previous
+for time series, split will be continuous because the next value depends on previous
 
 ex: 120,130,125,140,134,150,160,190,154
 
